@@ -8,6 +8,7 @@ Files:
 - Functions (folder) -> Contains all the functions used in the previous scripts.
 - Datos_finales (folder) -> Contains the data exported from Representation.m. It is important to emphasize that, when generating series in Matlab, each time the "random" command is executed, no matter how much the statistical distribution object passed to it is the same, the results may differ slightly from each other. Therefore, these are the data with which the detectability evaluation was performed.
 - Distribution_Fitter (folder) -> These are the .dfit sessions generated with this tool in Matlab.
+- Nolan_valores.xlsx -> Excel file where the alpha-stable values that the attack series would have to fulfill the equations of the sum property are calculated.
 
 
 Archivos:
@@ -17,6 +18,7 @@ Archivos:
 - Functions (carpeta) -> Contiene todas las funciones utilizadas en los scripts anteriores.
 - Datos_finales (carpeta) -> Contiene los datos exportados de Representacion.m. Es importante recalcar que, al generar series en Matlab, cada vez que se ejecuta el comando "random", por mucho que el objeto de distribución estadística que se le pase sea el mismo, los resultados pueden distar entre si ligeramente. Por tanto, estos son los datos con los que se realizó la evaluación de detectabilidad.
 - Distribution_Fitter (carpeta) -> Son las sesiones .dfit generadas con dicha herramienta en Matlab.
+- Nolan_valores.xlsx -> Fichero de excel dónde se calculan los valores alfaa-estables que tendría la serie de ataque para cumplir las ecuaciones de la propiedad de la suma.
 
 
 
